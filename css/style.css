@@ -1,0 +1,29 @@
+
+.image{
+    background-image: url(/images/office.jpg);
+    height: 120%;
+    margin-top: 0px;
+}
+
+*{
+    margin-top: 0px;
+}
+.red{
+    background-color: red;
+    margin-top: 0px;
+    width: 100%;
+
+}
+body{
+    margin: 0px;
+}
+
+.building{
+    background-image: url(/images/dark.jpg);
+    width: 100%;
+    height: 50%;
+}
+.buildd{
+    background-image: url(/images/builddd.png);
+}
+
